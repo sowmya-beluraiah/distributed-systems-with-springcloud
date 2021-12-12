@@ -1,4 +1,4 @@
-# Microservices with Spring Boot and Spring Cloud
+# Distributed services with Spring Boot and Spring Cloud
 
 Demonstrates distributed systems with Spring Cloud
 
